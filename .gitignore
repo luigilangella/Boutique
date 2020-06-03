@@ -1,2 +1,5 @@
 .vscode/
 boutique/
+*.sqlite3
+*.pyc
+__pycache__/
